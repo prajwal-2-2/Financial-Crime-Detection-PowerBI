@@ -21,6 +21,6 @@ Financial fraud is evolving. This project is an end-to-end detection system desi
 
 ## 💻 How to Run This
 1. **The Data:** Check [data_generator.py](data_generator.py) to see the Python logic used to simulate the fraud.
-2. **The Dashboard:** Download [Fraud_Detection_Dashboard.pbix](Fraud_Detection_Dashboard.pbix) and open it in Power BI Desktop.
+2. **The Dashboard:** Download [dashboard.pbix](dashboard.pbix) and open it in Power BI Desktop.
 ---
 *Created as part of the Master's in FinTech at UOW India.*
