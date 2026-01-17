@@ -5,7 +5,8 @@
 ## Project Overview
 Financial fraud is evolving. This project is an end-to-end detection system designed to identify sophisticated transaction patterns like **Smurfing** and **Account Takeovers**. It moves beyond simple reporting to provide AI-driven root cause analysis for security teams.
 
-![Dashboard Main View](dashboard_view.png)
+[dashboard_view.png.pdf](https://github.com/user-attachments/files/24686856/dashboard_view.png.pdf)
+
 
 ## 🛠️ Tech Stack
 * **Python (Pandas/Faker):** Generated a synthetic dataset of 5,000+ banking transactions with injected fraud logic.
